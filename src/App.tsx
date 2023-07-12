@@ -9,7 +9,7 @@ const App: React.FC = () => {
     width: 30%;
     padding: 30px;
     border-radius: 11% 89% 10% 90% / 86% 11% 89% 14%;
-    max-height: 50vh;
+    /* max-height: 50vh; */
     background-color: #b4ea97;
   `;
 
